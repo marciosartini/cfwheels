@@ -2,10 +2,22 @@
 <ul>
 	<li>Usuario 1</li>
 
-	<cfloop from="1" to="#ArrayLen(firstname)#" index="x"   >
- 			<cfoutput>#firstname[x]#</cfoutput>
-	</cfloop>
 </ul>
 
 
+	<cfloop from="1" to="#ArrayLen(firstname)#" index="x"   >
+ 			<li><cfoutput>#firstname[x]#</cfoutput></li>
+	</cfloop>
+
+	<br>
+
+	<cfset aWhileAgo = Now() - .04>
+<cfoutput>#timeAgoInWords(aWhileAgo)#</cfoutput>
+
+<cfoutput>#callmeuplugin()#</cfoutput>
+
  
+
+ 
+
+

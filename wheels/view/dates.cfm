@@ -1,4 +1,4 @@
-<cffunction name="distanceOfTimeInWords" returntype="string" access="public" output="false" hint="Pass in two dates to this method, and it will return a string describing the difference between them."
+﻿<cffunction name="distanceOfTimeInWords" returntype="string" access="public" output="false" hint="Pass in two dates to this method, and it will return a string describing the difference between them."
 	examples='
 	<cfset aWhileAgo = Now() - 30>
 	<cfset rightNow = Now()>
@@ -40,7 +40,7 @@
 		}
 		else if (loc.minuteDiff < 90)
 		{
-			loc.returnValue = "about 1 hour";
+			loc.returnValue = "próximo de 1 hora";
 		}
 		else if (loc.minuteDiff < 1440)
 		{

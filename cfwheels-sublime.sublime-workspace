@@ -1,0 +1,565 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"arra",
+				"arrayNew	fn. (cfscript)"
+			],
+			[
+				"usuario",
+				"usuarioId"
+			],
+			[
+				"imprim",
+				"imprimeConsole"
+			],
+			[
+				"list",
+				"list-template"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"post",
+				"post_name"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"la",
+				"large_image_url"
+			],
+			[
+				"wooc",
+				"woocommerce"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"show",
+				"show_posts"
+			],
+			[
+				"edito",
+				"editor_nome"
+			],
+			[
+				"dis",
+				"display_name"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"title-e",
+				"title-edit-dest"
+			],
+			[
+				"excer",
+				"excerpt-edit-dest"
+			],
+			[
+				"fra",
+				"fragmento"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: fun",
+				"Snippet: Function"
+			],
+			[
+				"",
+				"Convert Case: Upper Case"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/SAMSUMG/workspace/sartini.com.br/pedido/controllers/pedido.cfc",
+		"/Applications/ColdFusion10/cfusion/wwwroot/cfwheels/index.cfm",
+		"/Applications/ColdFusion10/cfusion/wwwroot/cfwheels/wheels/index.cfm",
+		"/Applications/ColdFusion10/cfusion/wwwroot/cfwheels/views/wheels/wheels.cfm",
+		"/Applications/ColdFusion10/cfusion/wwwroot/cfwheels/views/helpers.cfm",
+		"/Applications/ColdFusion10/cfusion/wwwroot/cfwheels/wheels/public/wheels.cfm",
+		"/Applications/ColdFusion10/cfusion/wwwroot/cfwheels/wheels/public/congratulations.cfm",
+		"/Applications/ColdFusion10/cfusion/wwwroot/cfwheels/wheels/CHANGELOG",
+		"/Applications/ColdFusion10/cfusion/wwwroot/cfwheels/wheels/controller/rendering.cfm",
+		"/Applications/ColdFusion10/cfusion/wwwroot/cfwheels/views/layout.cfm",
+		"/Applications/ColdFusion10/cfusion/wwwroot/cfwheels/config/app.cfm",
+		"/Users/msartini/workspace/angular/mytodo/app/styles/main.scss",
+		"/Users/msartini/workspace/angular/mytodo/app/index.html",
+		"/Users/msartini/workspace/angular/mytodo/app/scripts/controllers/main.js",
+		"/Users/msartini/workspace/angular/mytodo/app/styles/main.css",
+		"/Users/msartini/workspace/angular/.tmp/styles/main-bak.css",
+		"/Users/msartini/workspace/angular/mytodo/.tmp/styles/main.css",
+		"/Users/msartini/workspace/angular/.tmp/styles/main.css",
+		"/Users/msartini/workspace/app/index.html",
+		"/Users/msartini/workspace/app/Gruntfile.js",
+		"/Users/msartini/workspace/angular/dist/index.html",
+		"/Users/msartini/workspace/angular/mytodo/Gruntfile.js",
+		"/Users/msartini/workspace/backbone/ex-view.html",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/css/less/variables.less",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/css/styleall.css",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/core/lib/yit/Walker/Walker_Top_Menu.php",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/header.php",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/theme/templates/header/topbar.php",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/css/less/header.less",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/css/less/style.less",
+		"/Users/msartini/workspace/odebrecht-foz/wp-content/themes/foz/includes/page-fique-ligado.php",
+		"/Users/msartini/workspace/odebrecht-foz/wp-content/themes/foz/includes/page-duvidas-loop.php",
+		"/Users/msartini/workspace/odebrecht-foz/wp-content/themes/foz/page-home.php",
+		"/Users/msartini/workspace/odebrecht-foz/wp-content/themes/foz/page-home-sem-servico.php",
+		"/Users/msartini/workspace/odebrecht-foz/wp-content/themes/foz/page-home-esgoto-sem-servico.php",
+		"/Users/msartini/workspace/odebrecht-foz/wp-content/themes/foz/css/less/slideshow.less",
+		"/Users/msartini/workspace/odebrecht-foz/wp-content/themes/foz/page-comunicacao.php",
+		"/Users/msartini/workspace/odebrecht-foz/wp-content/themes/foz/page-sidebar-subpages-interna.php",
+		"/Users/msartini/workspace/chaplin/Gruntfile.js",
+		"/Users/msartini/workspace/chaplin/css/less/style.less",
+		"/Users/msartini/workspace/chaplin/coffee/models/base/model.coffee",
+		"/Users/msartini/workspace/chaplin/coffee/models/hello-world.coffee",
+		"/Users/msartini/workspace/chaplin/coffee/views/site-view.coffee",
+		"/Users/msartini/workspace/chaplin/coffee/application.coffee",
+		"/Users/msartini/workspace/handlebars/index2.html",
+		"/Users/msartini/workspace/chaplin/coffee/routes.coffee",
+		"/Users/msartini/workspace/chaplin/css/less/teste.less",
+		"/Users/msartini/workspace/chaplin/coffee/controllers/hello-controller.coffee",
+		"/Users/msartini/workspace/chaplin/coffee/teste.coffee",
+		"/Users/msartini/workspace/chaplin/coffee/routes.js",
+		"/Users/msartini/workspace/chaplin/coffee/models/user.js",
+		"/Users/msartini/workspace/chaplin/js/models/user.js",
+		"/Users/msartini/workspace/odebrecht-foz/Gruntfile.js",
+		"/Users/msartini/workspace/chatasechiques/index.php",
+		"/Users/msartini/workspace/chatasechiques/node_modules/grunt-contrib-less/test/fixtures/nopaths.less",
+		"/Users/msartini/workspace/chatasechiques/node_modules/grunt-contrib-less/test/expected/individual/level2/style3.css",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/theme/yit/Popup.php",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/core/yit/Popup.php",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/core/templates/shortcodes/newsletter_form.php",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/theme/panel/maintenance/maintenance-newsletter.php",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/core/assets/js/unminified/shortcodes.js",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/theme/templates/maintenance/maintenance.php",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/core/yit/Submenu/Tabs/Maintenance/Maintenance_Container.php",
+		"/Users/msartini/workspace/chatasechiques/wp-content/languages/admin-pt_BR.po",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/languages/pt_BR.po",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/core/yit/Maintenance.php",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/functions.php",
+		"/Users/msartini/workspace/chatasechiques/wp-content/plugins/revslider/views/templates/slide.php",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/fonts.css",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/woocommerce/product-compare.php",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/custom.css",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/style.css",
+		"/Users/msartini/workspace/chatasechiques/wp-content/plugins/woocommerce/assets/css/woocommerce.less",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/theme/templates/shortcodes/credit_card.php",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/theme/shortcodes.php",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/theme/theme/shortcodes.php",
+		"/Users/msartini/workspace/chatasechiques/wp-content/plugins/gravityforms/common.php",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/theme/assets/css/shortcodes.css",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/theme/theme/assets/css/shortcodes.css",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/theme/templates/footer/footer-big.php",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/css/less/aparencia.less",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/css/less/utilities.less",
+		"/Users/msartini/workspace/chatasechiques/Gruntfile.js",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/css/style-980.css",
+		"/Users/msartini/workspace/chatasechiques/wp-includes/theme.php",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/css/less/apararencia.less",
+		"/Volumes/SAMSUMG/diversos/editores/jetbrains/readme.nfo",
+		"/Users/msartini/workspace/chatasechiques/.gitignore",
+		"/Users/msartini/workspace/chatasechiques/wp-admin/includes/ajax-actions.php",
+		"/Users/msartini/workspace/chatasechiques/wp-activate.php",
+		"/Users/msartini/workspace/chatasechiques/Gruntfilecopia.js",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/woocommerce/archive-product.php",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/core/functions-core.php",
+		"/Users/msartini/workspace/chatasechiques/.htaccess",
+		"/Users/msartini/workspace/odebrecht-foz/wp-content/themes/foz/library/less/variables.less",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/css/less/style-980.less",
+		"/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/css/less/style-768.less",
+		"/Users/msartini/workspace/chatasechiques/wp-config.php",
+		"/Users/msartini/workspace/foz-odebrecht/wp-content/themes/fozoa/page-unidade-utilities.php",
+		"/Users/msartini/workspace/foz-odebrecht/wp-content/themes/fozoa/page-unidade-residuos.php",
+		"/Users/msartini/workspace/foz-odebrecht/wp-content/themes/fozoa/page-agua-e-esgoto.php",
+		"/Users/msartini/workspace/foz-odebrecht/wp-content/themes/fozoa/page-utilities.php",
+		"/Users/msartini/workspace/foz-odebrecht/wp-content/themes/fozoa/css/less/utilities.less",
+		"/Users/msartini/workspace/foz-odebrecht/wp-content/themes/fozoa/css/less/page-areas-de-atuacao.less",
+		"/Users/msartini/workspace/foz-odebrecht/wp-content/themes/fozoa/css/less/style.less",
+		"/Users/msartini/workspace/foz-odebrecht/wp-content/themes/fozoa/css/styleall.css",
+		"/Users/msartini/workspace/foz-odebrecht/wp-content/themes/fozoa/page-residuos.php",
+		"/Users/msartini/workspace/odebrecht-foz/wp-content/themes/foz/page-sustentabilidade.php",
+		"/Users/msartini/workspace/odebrecht-foz/wp-content/themes/foz/page-seu-cadastro.php",
+		"/Users/msartini/workspace/foz-odebrecht/wp-content/themes/fozoa/page-unidades-residuos.php",
+		"/Users/msartini/workspace/odebrecht-foz/wp-content/themes/foz/single-duvidas.php",
+		"/Users/msartini/workspace/odebrecht-foz/wp-content/themes/foz/archive-duvidas.php",
+		"/Users/msartini/workspace/foz-odebrecht/wp-content/themes/fozoa/search.php",
+		"/Users/msartini/workspace/odebrecht-foz/wp-content/themes/foz/search.php",
+		"/Users/msartini/workspace/foz-odebrecht/wp-content/themes/fozoa/css/less/header.less",
+		"/Users/msartini/workspace/foz-odebrecht/wp-content/themes/fozoa/header.php",
+		"/Users/msartini/workspace/foz-odebrecht/wp-content/themes/fozoa/css/less/variables.less",
+		"/Users/msartini/workspace/foz-odebrecht/wp-content/themes/fozoa/css/less/slideshow.less",
+		"/Users/msartini/workspace/foz-odebrecht/wp-content/themes/fozoa/css/less/page-home.less",
+		"/Users/msartini/workspace/odebrecht-foz/wp-content/themes/foz/archive-videos.php",
+		"/Users/msartini/workspace/odebrecht-foz/wp-content/themes/foz/css/less/backgrounds.less",
+		"/Users/msartini/workspace/odebrecht-foz/wp-content/themes/foz/page-trabalhe-na-foz.php",
+		"/Users/msartini/workspace/odebrecht-foz/wp-content/themes/foz/page-tabela-de-servicos.php",
+		"/Users/msartini/workspace/odebrecht-foz/wp-content/themes/foz/page-estrutura-tarifaria.php",
+		"/Users/msartini/workspace/odebrecht-foz/wp-content/themes/foz/page-entenda-sua-conta.php",
+		"/Users/msartini/workspace/odebrecht-foz/wp-content/themes/foz/page-emissao-de-2a-via-de-fatura.php",
+		"/Users/msartini/workspace/odebrecht-foz/wp-content/themes/foz/page-consulta-de-debitos.php",
+		"/Users/msartini/workspace/odebrecht-foz/wp-content/themes/foz/archive-dicas.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Applications/ColdFusion10/cfusion/wwwroot/cfwheels",
+			"/Users/msartini/workspace/angular",
+			"/Users/msartini/workspace/chatasechiques/",
+			"/Users/msartini/workspace/odebrecht-foz/wp-content/themes/foz/css/less",
+			"/Users/msartini/workspace/odebrecht-foz/wp-content-themes/foz/css/less",
+			"/Users/msartini/workspace/chatasechiques/",
+			"/Users/msartini/workspace/chatasechiques/,/Users/msartini/workspace/chatasechiques/wp-content/themes/chatasechiques/woocommerce",
+			"/Users/msartini/workspace/chatasechiques/",
+			"/Users/msartini/workspace/foz-odebrecht/wp-content/themes/fozoa/css/less",
+			"/Users/msartini/workspace/foz-odebrecht/wp-content/themes/fozoa",
+			"/Users/msartini/workspace/odebrecht-foz/wp-content/themes/fozoa",
+			"/Users/msartini/workspace/odebrecht-foz/wp-content/themes/foz/css/less",
+			"/Users/msartini/workspace/odebrecht-foz/wp-content/themes/foz",
+			"/Users/msartini/workspace/foz-odebrecht/wp-content/themes/fozoa/Previous",
+			"/Users/msartini/workspace/foz-odebrecht/wp-content/themes/fozoa/css/less",
+			"/Users/msartini/workspace/foz-odebrecht/themes/fozoa/css/less",
+			"/Users/msartini/workspace/odebrecht-foz/wp-content/themes/foz/css/less",
+			"/Users/msartini/workspace/odebrecht-foz/wp-content/themes/foz/",
+			"/Users/msartini/workspace/odebrecht-foz/wp-content/themes/foz/css/less",
+			"/Users/msartini/workspace/odebrecht-foz/wp-content/themes/foz/",
+			"/Users/msartini/workspace/odebrecht-foz/wp-content/themes/foz/css/less",
+			"/Users/msartini/workspace/bbestilo",
+			"/Users/msartini/workspace/sidarta",
+			"/Users/msartini/workspace/chatasechiques",
+			"/Users/msartini/workspace/plural",
+			"/Users/msartini/workspace/fozoa",
+			"/Users/msartini/workspace/wpapp/wp-content/plugins/",
+			"/Users/msartini/workspace/wpapp/wp-content/plugins/json-api"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"	\n",
+			"maintenance work",
+			"congratulations",
+			"includeContent",
+			"rewrite.c",
+			"app",
+			".tmp",
+			"yeoman.app",
+			"autoprefixer",
+			".tmp",
+			"header-banner",
+			"  \n",
+			"header-banner",
+			"hero",
+			".tmp",
+			"yeoman",
+			"yeoman.app",
+			"yeoman.app ",
+			".tmp",
+			"karma",
+			"compa",
+			"Karma",
+			".css",
+			"logo-img",
+			"search_mini",
+			"data-product_id",
+			"data-product",
+			"show-on-list",
+			"link_before",
+			"logo",
+			"menu-top-bar",
+			"topbar-left",
+			"id=\"header\"",
+			"div.text",
+			"div.pagecontent div.text",
+			"slideshow_content",
+			"aconte",
+			"o que ac",
+			"dest",
+			"js",
+			"defa",
+			"products-slider",
+			"email-field text-field",
+			"__(\"",
+			"_('",
+			"newsletter-section",
+			"SUBSCRIBE",
+			"subs",
+			"yit",
+			"maintenance_message\n\nyit",
+			"maintenance_message",
+			"'Subs",
+			"\"Subs",
+			"Subs",
+			"\"Subscribe",
+			"subscribe",
+			"subs",
+			"class",
+			"maintenance",
+			"subsc",
+			"google-font-css",
+			"google-fonts-css",
+			"google-font-css",
+			"Monda",
+			"googleapis",
+			"monda",
+			"google-fonts-css",
+			"url('",
+			"styleall.css",
+			"monda",
+			".woff",
+			"tera",
+			"teraend",
+			"credit_card",
+			"creditcard.png",
+			"credit_card.png",
+			"credit_card",
+			"mastercard",
+			"credit",
+			"credit_card",
+			"back to",
+			"Back to",
+			"import",
+			"style.css",
+			"die",
+			"die(",
+			"die",
+			"teste",
+			"\"teste\"",
+			"teste",
+			"print_r",
+			"echo \"test",
+			"echo 'teste",
+			"echo \"teste",
+			"teste",
+			"variables.less",
+			"bootstrap.less",
+			"/less",
+			"admin-ajax.php",
+			"teste",
+			"\"teste\"",
+			"'teste'",
+			"teste",
+			"listaunidades",
+			"Edge",
+			"Previous",
+			"diag",
+			"links-areas",
+			"are",
+			"url(",
+			"cadas",
+			"Conectado em",
+			"cone",
+			"title-bg",
+			"Previous",
+			"Busca",
+			"btn",
+			".btn",
+			"Buscar",
+			"Bus",
+			".btn",
+			"img-u",
+			"bg-footer-video",
+			"Acesse",
+			"na-empresa",
+			"na-empresa-list",
+			"na-empresa",
+			"fique"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"woocommerce",
+			"url('fonts/",
+			"Cadastrado em",
+			"woocommerce",
+			"'woocommerce'"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"congra",
+				"wheels/public/congratulations.cfm"
+			],
+			[
+				"main.css",
+				"mytodo/.tmp/styles/main.css"
+			],
+			[
+				"main.cs",
+				"mytodo/.tmp/styles/main.css"
+			],
+			[
+				"main",
+				".tmp/styles/main.css"
+			],
+			[
+				"gruntfile",
+				"mytodo/Gruntfile.js"
+			],
+			[
+				"walker",
+				"wp-content/themes/chatasechiques/core/lib/yit/Walker/Walker_Top_Menu.php"
+			],
+			[
+				"wp-blo",
+				"wp-blog-header.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 348.0,
+	"status_bar_visible": true
+}
