@@ -13,7 +13,7 @@
 
 	<cfset aWhileAgo = Now() - .04>
 <cfoutput>#timeAgoInWords(aWhileAgo)#</cfoutput>
-
+<br>
 <cfoutput>#callmeuplugin()#</cfoutput>
 
  
